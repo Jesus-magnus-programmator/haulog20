@@ -1,7 +1,7 @@
 {
   "_help": "Who may use HaulLog. Paste your Google Client ID between the quotes after clientId (see README.txt, section GOOGLE SIGN-IN). Until then nobody can sign in.",
   "login": "google",
-  "clientId": "",
+  "clientId": "669893096417-s67tme8m6vi3qloc6doug208f9l8jc23.apps.googleusercontent.com",
   "allowedEmails": ["jesus.rea@rgexcavationut.com", "office@rgexcavationut.com"],
   "allowedDomains": [],
   "adminEmails": [],
